@@ -32,12 +32,12 @@
 <a href = "https://www.linkedin.com/in/hala-haneya/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
-## ❤ Views and Followers
+<!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hala-h">
 </a>
 <a href="https://github.com/Hala-h?tab=followers"><img src="https://img.shields.io/github/followers/AichaSidiya?label=Followers&style=social" alt="GitHub Badge"></a>
-
+ -->
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
 <!---
