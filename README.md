@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hi%20there%20👋%20I'm%20Hala&fontSize=60)
+
+
 - 👋 Hi, I’m @Hala-H
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning Python and R
