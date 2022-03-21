@@ -36,7 +36,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Hala-h">
 </a>
-<a href="https://github.com/Hala-h?tab=followers"><img src="https://img.shields.io/github/followers/Hala-h?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Hala-h?tab=followers"><img src="https://img.shields.io/github/followers/AichaSidiya?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
