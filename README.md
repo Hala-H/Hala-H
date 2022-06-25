@@ -2,11 +2,11 @@
 
 ## ABOUT ME
 
-:raising_hand: I'm a senior computer science, who is interested in data science.
+:raising_hand: I'm a computer science fresh graduate, who is interested in data science.
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-- 🎓 College student
+- 🎓 Fresh Graduate 
 
-- 🌱 Studying Computer Science
+- 🌱 Bsc in Computer Science (Artificial Intelligence)
  
 
 ## MY GITHUB STAT
