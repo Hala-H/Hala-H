@@ -16,9 +16,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Hala-h/github-readme-activity-graph"><img alt="Aicha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Hala-h&theme=dracula" width=850/></a>
-</p>
-
 
 ## TOP PROGRAMING LANGUAGES
 
